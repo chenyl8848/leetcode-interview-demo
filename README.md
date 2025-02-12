@@ -20,4 +20,6 @@
 - #### [浅拷贝和深拷贝](./src/main/java/com/codechen/interview/CloneDemo.java)
 - #### [IDEA Debug 技巧](./src/main/java/com/codechen/interview/IDEADebugDemo.java)
 - #### [Junit 单元测试](./src/main/java/com/codechen/interview/junit/JunitDemo.java)
+- #### [ThreadLocal 简介](./src/main/java/com/codechen/interview/ThreadLocalDemo.java)
+- #### [线程池优雅停机](./src/main/java/com/codechen/interview/ThreadPoolGracefulShutdownDemo.java)
 
