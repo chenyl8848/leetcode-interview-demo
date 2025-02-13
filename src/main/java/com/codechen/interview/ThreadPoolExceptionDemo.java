@@ -36,10 +36,6 @@ public class ThreadPoolExceptionDemo {
 
     /**
      * 线程池异常处理
-     * 在 SpringBoot 环境中推荐使用 ThreadPoolExecutor
-     * ThreadPoolTaskExecutor是 Spring 提供的一个方便的线程池实现，用于异步执行任务或处理并发请求。
-     * 在使用 ThreadPoolTaskExecutor 作为 Spring Bean 注册到容器中后，Spring 会负责在应用程序关闭时自动关闭所有注册的线程池，所以不需要手动关闭。
-     * 这样不仅可以确保线程池中的线程正确地停止，还可以防止资源泄露和潜在的并发问题。
      */
     public static void handleException() {
         ThreadPoolExecutor threadPool = new ThreadPoolExecutor(
