@@ -4,7 +4,9 @@
 
 ## 力扣
 
-- #### [合并两个有序数组]()
+- #### [合并两个有序数组](./src/main/java/com/codechen/leetcode/MergeSortArray.java)
+- #### [两数之和](./src/main/java/com/codechen/leetcode/TwoSum.java)
+- #### [反转字符串](./src/main/java/com/codechen/leetcode/ReverseString.java)
 
 ## Java 面试题
 

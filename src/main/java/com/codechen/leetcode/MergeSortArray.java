@@ -1,4 +1,4 @@
-package com.codechen.leetcode.simple;
+package com.codechen.leetcode;
 
 import java.util.Arrays;
 
