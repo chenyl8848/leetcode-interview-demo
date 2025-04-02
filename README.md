@@ -6,7 +6,17 @@
 
 - #### [合并两个有序数组](./src/main/java/com/codechen/leetcode/MergeSortArray.java)
 - #### [两数之和](./src/main/java/com/codechen/leetcode/TwoSum.java)
-- #### [反转字符串](./src/main/java/com/codechen/leetcode/ReverseString.java)
+
+### 双指针
+
+- 左右指针
+    - #### [反转字符串](./src/main/java/com/codechen/leetcode/dualpointers/ReverseString.java)
+    - #### [两数之和 II](./src/main/java/com/codechen/leetcode/dualpointers/TwoSumSortArray.java)
+    - #### [二分查找](./src/main/java/com/codechen/leetcode/dualpointers/BinarySearch.java)
+- 前后快慢指针
+    - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
+    - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
+    - #### [移除元素](./src/main/java/com/codechen/leetcode/dualpointers/RemoveElement.java)
 
 ## Java 面试题
 
