@@ -13,6 +13,8 @@
     - #### [反转字符串](./src/main/java/com/codechen/leetcode/dualpointers/ReverseString.java)
     - #### [两数之和 II](./src/main/java/com/codechen/leetcode/dualpointers/TwoSumSortArray.java)
     - #### [二分查找](./src/main/java/com/codechen/leetcode/dualpointers/BinarySearch.java)
+    - #### [验证回文串](./src/main/java/com/codechen/leetcode/dualpointers/IsPalindrome.java)
+    - #### [盛最多水的容器](./src/main/java/com/codechen/leetcode/dualpointers/MaxArea.java)
 - 前后快慢指针
     - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
     - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
