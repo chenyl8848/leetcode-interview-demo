@@ -17,6 +17,7 @@
     - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
     - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
     - #### [移除元素](./src/main/java/com/codechen/leetcode/dualpointers/RemoveElement.java)
+    - #### [两个数组的交集](./src/main/java/com/codechen/leetcode/dualpointers/Intersection.java)
 
 ## Java 面试题
 
