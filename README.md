@@ -7,6 +7,7 @@
 - #### [合并两个有序数组](./src/main/java/com/codechen/leetcode/MergeSortArray.java)
 - #### [两数之和](./src/main/java/com/codechen/leetcode/TwoSum.java)
 - #### [轮转数组](./src/main/java/com/codechen/leetcode/RotateArray.java)
+- #### [字符的最短距离](./src/main/java/com/codechen/leetcode/ShortestToChar.java)
 
 ### 双指针
 
@@ -18,6 +19,7 @@
     - #### [盛最多水的容器](./src/main/java/com/codechen/leetcode/dualpointers/MaxArea.java)
     - #### [仅仅反转字母](./src/main/java/com/codechen/leetcode/dualpointers/ReverseOnlyLetters.java)
     - #### [平方数之和](./src/main/java/com/codechen/leetcode/dualpointers/JudgeSquareSum.java)
+    - #### [按奇偶排序数组](./src/main/java/com/codechen/leetcode/dualpointers/SortArrayByParity.java)
 - 前后快慢指针
     - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
     - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
