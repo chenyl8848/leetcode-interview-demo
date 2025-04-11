@@ -8,6 +8,7 @@
 - #### [两数之和](./src/main/java/com/codechen/leetcode/TwoSum.java)
 - #### [轮转数组](./src/main/java/com/codechen/leetcode/RotateArray.java)
 - #### [字符的最短距离](./src/main/java/com/codechen/leetcode/ShortestToChar.java)
+- #### [出满足差值条件的下标I ](./src/main/java/com/codechen/leetcode/FindIndices.java)
 
 ### 双指针
 
@@ -26,6 +27,7 @@
     - #### [移除元素](./src/main/java/com/codechen/leetcode/dualpointers/RemoveElement.java)
     - #### [两个数组的交集](./src/main/java/com/codechen/leetcode/dualpointers/Intersection.java)
     - #### [长按键入](./src/main/java/com/codechen/leetcode/dualpointers/IsLongPressedName.java)
+    - #### [最小公共值](./src/main/java/com/codechen/leetcode/dualpointers/GetCommon.java)
 
 ## Java 面试题
 
