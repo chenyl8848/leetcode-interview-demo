@@ -22,6 +22,7 @@
     - #### [仅仅反转字母](./src/main/java/com/codechen/leetcode/dualpointers/ReverseOnlyLetters.java)
     - #### [平方数之和](./src/main/java/com/codechen/leetcode/dualpointers/JudgeSquareSum.java)
     - #### [按奇偶排序数组](./src/main/java/com/codechen/leetcode/dualpointers/SortArrayByParity.java)
+    - #### [反转单词前缀](./src/main/java/com/codechen/leetcode/dualpointers/ReversePrefix.java)
 - 前后快慢指针
     - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
     - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
@@ -30,6 +31,7 @@
     - #### [长按键入](./src/main/java/com/codechen/leetcode/dualpointers/IsLongPressedName.java)
     - #### [最小公共值](./src/main/java/com/codechen/leetcode/dualpointers/GetCommon.java)
     - #### [交替合并字符串](./src/main/java/com/codechen/leetcode/dualpointers/MergeAlternately.java)
+    - #### [找出字符串钟第一个匹配项的下标](./src/main/java/com/codechen/leetcode/dualpointers/StrStr.java)
 
 ## Java 面试题
 
