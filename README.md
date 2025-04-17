@@ -10,6 +10,7 @@
 - #### [字符的最短距离](./src/main/java/com/codechen/leetcode/ShortestToChar.java)
 - #### [出满足差值条件的下标I](./src/main/java/com/codechen/leetcode/FindIndices.java)
 - #### [两个数组间的距离值](./src/main/java/com/codechen/leetcode/FindTheDistanceValue.java)
+- #### [检查字符串是否为数组前缀](./src/main/java/com/codechen/leetcode/IsPrefixString.java)
 
 ### 双指针
 
