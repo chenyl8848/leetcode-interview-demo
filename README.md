@@ -24,6 +24,7 @@
     - #### [平方数之和](./src/main/java/com/codechen/leetcode/dualpointers/JudgeSquareSum.java)
     - #### [按奇偶排序数组](./src/main/java/com/codechen/leetcode/dualpointers/SortArrayByParity.java)
     - #### [反转单词前缀](./src/main/java/com/codechen/leetcode/dualpointers/ReversePrefix.java)
+    - #### [寻找重复数](./src/main/java/com/codechen/leetcode/dualpointers/FindDuplicate.java)
 - 前后快慢指针
     - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
     - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
