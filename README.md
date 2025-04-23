@@ -11,6 +11,7 @@
 - #### [出满足差值条件的下标I](./src/main/java/com/codechen/leetcode/FindIndices.java)
 - #### [两个数组间的距离值](./src/main/java/com/codechen/leetcode/FindTheDistanceValue.java)
 - #### [检查字符串是否为数组前缀](./src/main/java/com/codechen/leetcode/IsPrefixString.java)
+- #### [只出现一次的数字](./src/main/java/com/codechen/leetcode/SingleNumber.java)
 
 ### 双指针
 
