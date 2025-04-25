@@ -12,6 +12,7 @@
 - #### [两个数组间的距离值](./src/main/java/com/codechen/leetcode/FindTheDistanceValue.java)
 - #### [检查字符串是否为数组前缀](./src/main/java/com/codechen/leetcode/IsPrefixString.java)
 - #### [只出现一次的数字](./src/main/java/com/codechen/leetcode/SingleNumber.java)
+- #### [找不同](./src/main/java/com/codechen/leetcode/FindTheDifference.java)
 
 ### 双指针
 
@@ -26,6 +27,7 @@
     - #### [按奇偶排序数组](./src/main/java/com/codechen/leetcode/dualpointers/SortArrayByParity.java)
     - #### [反转单词前缀](./src/main/java/com/codechen/leetcode/dualpointers/ReversePrefix.java)
     - #### [寻找重复数](./src/main/java/com/codechen/leetcode/dualpointers/FindDuplicate.java)
+    - #### [反转字符串中的元音字母](./src/main/java/com/codechen/leetcode/dualpointers/ReverseVowels.java)
 - 前后快慢指针
     - #### [删除有序数组中的重复项](./src/main/java/com/codechen/leetcode/dualpointers/RemoveDuplicates.java)
     - #### [移动零](./src/main/java/com/codechen/leetcode/dualpointers/MoveZeroes.java)
