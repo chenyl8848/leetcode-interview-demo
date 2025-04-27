@@ -13,6 +13,7 @@
 - #### [检查字符串是否为数组前缀](./src/main/java/com/codechen/leetcode/IsPrefixString.java)
 - #### [只出现一次的数字](./src/main/java/com/codechen/leetcode/SingleNumber.java)
 - #### [找不同](./src/main/java/com/codechen/leetcode/FindTheDifference.java)
+- #### [丢失的数字](./src/main/java/com/codechen/leetcode/MissingNumber.java)
 
 ### 双指针
 
