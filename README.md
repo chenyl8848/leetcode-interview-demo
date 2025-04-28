@@ -14,6 +14,7 @@
 - #### [只出现一次的数字](./src/main/java/com/codechen/leetcode/SingleNumber.java)
 - #### [找不同](./src/main/java/com/codechen/leetcode/FindTheDifference.java)
 - #### [丢失的数字](./src/main/java/com/codechen/leetcode/MissingNumber.java)
+- #### [宝石与石头](./src/main/java/com/codechen/leetcode/NumJewelsInStones.java)
 
 ### 双指针
 
@@ -38,6 +39,7 @@
     - #### [最小公共值](./src/main/java/com/codechen/leetcode/dualpointers/GetCommon.java)
     - #### [交替合并字符串](./src/main/java/com/codechen/leetcode/dualpointers/MergeAlternately.java)
     - #### [找出字符串钟第一个匹配项的下标](./src/main/java/com/codechen/leetcode/dualpointers/StrStr.java)
+    - #### [字符串相加](./src/main/java/com/codechen/leetcode/dualpointers/AddStrings.java)
 
 ## Java 面试题
 
