@@ -12,13 +12,7 @@
 - #### [两个数组间的距离值](./src/main/java/com/codechen/leetcode/FindTheDistanceValue.java)
 - #### [检查字符串是否为数组前缀](./src/main/java/com/codechen/leetcode/IsPrefixString.java)
 - #### [只出现一次的数字](./src/main/java/com/codechen/leetcode/SingleNumber.java)
-- #### [找不同](./src/main/java/com/codechen/leetcode/FindTheDifference.java)
 - #### [丢失的数字](./src/main/java/com/codechen/leetcode/MissingNumber.java)
-- #### [宝石与石头](./src/main/java/com/codechen/leetcode/NumJewelsInStones.java)
-- #### [查找共用字符](./src/main/java/com/codechen/leetcode/CommonChars.java)
-- #### [“气球” 的最大数量](./src/main/java/com/codechen/leetcode/MaxNumberOfBalloons.java)
-- #### [字符串中的第一个唯一字符](./src/main/java/com/codechen/leetcode/FirstUniqChar.java)
-- #### [最后一个单词的长度](./src/main/java/com/codechen/leetcode/LengthOfLastWord.java)
 
 ### 双指针
 
@@ -44,6 +38,15 @@
     - #### [交替合并字符串](./src/main/java/com/codechen/leetcode/dualpointers/MergeAlternately.java)
     - #### [找出字符串钟第一个匹配项的下标](./src/main/java/com/codechen/leetcode/dualpointers/StrStr.java)
     - #### [字符串相加](./src/main/java/com/codechen/leetcode/dualpointers/AddStrings.java)
+  
+### 字符串
+
+- #### [找不同](./src/main/java/com/codechen/leetcode/string/FindTheDifference.java)
+- #### [宝石与石头](./src/main/java/com/codechen/leetcode/string/NumJewelsInStones.java)
+- #### [查找共用字符](./src/main/java/com/codechen/leetcode/string/CommonChars.java)
+- #### [“气球” 的最大数量](./src/main/java/com/codechen/leetcode/string/MaxNumberOfBalloons.java)
+- #### [字符串中的第一个唯一字符](./src/main/java/com/codechen/leetcode/string/FirstUniqChar.java)
+- #### [最后一个单词的长度](./src/main/java/com/codechen/leetcode/string/LengthOfLastWord.java)
 
 ## Java 面试题
 

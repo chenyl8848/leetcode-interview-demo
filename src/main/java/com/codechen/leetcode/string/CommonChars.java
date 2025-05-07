@@ -1,4 +1,4 @@
-package com.codechen.leetcode;
+package com.codechen.leetcode.string;
 
 import java.util.ArrayList;
 import java.util.Arrays;

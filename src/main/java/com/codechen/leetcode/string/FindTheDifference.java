@@ -1,4 +1,4 @@
-package com.codechen.leetcode;
+package com.codechen.leetcode.string;
 
 /**
  * @author：Java陈序员
